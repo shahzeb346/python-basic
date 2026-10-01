@@ -81,15 +81,15 @@ print("Is d less than or equal to ", d <= e)
 #  Logical operator and or not
 f = int(input("enter the vlaue of f : "))
 g = int(input("enter the vlaue of g : "))
-and operator both condition will be true
+# and operator both condition will be true
 print("is f less than g and f is equal to g", f<g and f == g)
- one condition must be true
+#  one condition must be true
 print("is f less than g or f is equal to g", f<g or f == g)
 
 #  identity operator
-is
-is not
-"""
+# is
+# is not
+# """
 h = 5
 i = 6
 j = 5
